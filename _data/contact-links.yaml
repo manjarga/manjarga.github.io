@@ -1,11 +1,11 @@
-- title: hello@blackode.in
-  link: 'mailto: hello@blackode.in'
+- title: manjarga@gmail.com
+  link: 'mailto: manjarga@gmail.com'
   icon-class: "fa fa-envelope"
 
-- title: "09494507287"
-  link: 'phone: 09494507287'
+- title: "+57 314 618 4059"
+  link: 'phone: +57 314 618 4059'
   icon-class: "fa fa-phone"
 
-- title: blackode.in
-  link: 'https://blackode.in'
+- title: manjarga.me
+  link: 'https://manjarga.me'
   icon-class: "fa fa-globe"
