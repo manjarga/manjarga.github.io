@@ -1,35 +1,46 @@
-## Manuel Jaramillo Gaviria
+# Programmers Online Resume Template
+## INTRO
+This is a Responsive Resume template for programmers. It is developed using [Jekyll](https://jekyllrb.com)
 
-Physics Engineer, Universidad Nacional de Colombia.
+![main-screen-shot](screenshots/main.png)
+For more screenshots check [wiki](https://github.com/blackode/online-resume/wiki)
 
-### Markdown
+## So what is Jekyll all about?
+Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like [Markdown](https://daringfireball.net/projects/markdown/)) and our [Liquid](https://shopify.github.io/liquid/) renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind [GitHub Pages](pages.github.com), which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Jekyll Installation 
+Follow this [Jekyll Installation Guide](https://jekyllrb.com/docs/installation/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Installing Dependencies
+After clonning the project, go to your projet root directory and install the dependencies
+```js
+bundle install
 ```
+### Running Server
+```js
+bundle exec jekyll serve
+```
+According the configuration of this project, as I wrote, the server will start at local address.    
+Here I assigned **0.0.0.0:4000** or you can visit **localhost:4000**
 
-**For** _more_ `details` see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Web Technologies Used
+1. Bootstrap
+2. Javascript/jQuery
+3. Jekyll - Ruby/Gems
+4. SCSS/SASS
 
-### Jekyll Themes
+### How Edit this project
+You just edit the `_data` folder files, The code will get updated automatically.      
+The advanced editing and detail description will be adding soon in wiki sections.      
+Glad if you can help me to do that fast.    
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/manjarga/manjarga.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Mean while if you need help write a line **hello@blackode.in** or raise an **issue** in issues section.
+ 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The good features are welcomed with **Great Respect**. Please feel free to contribute.
+
+**Thank You :)**         
+**Happy Coding !!**
+
+Buy me a coffe ::coffee:: If you find this useful : [Paypal](https://paypal.me/ankanna)
